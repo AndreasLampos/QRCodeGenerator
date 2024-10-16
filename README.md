@@ -36,10 +36,24 @@
         <pre><code>java -cp .:lib/* QRCodeGen</code></pre>
     </li>
 </ol>
-<strong>Example</strong>:
-https://github.com/user-attachments/assets/f3b15bf6-e573-4d71-883d-53890de3af34
-![Screenshot (118)](https://github.com/user-attachments/assets/d68c14ae-7400-42ac-bd17-e1c2275c984b)
+<strong>Example. Main Menu:</strong>
 
+![Screenshot (117)](https://github.com/user-attachments/assets/ee669835-6b90-4051-987b-ce8639af7523)
+
+<strong>Creating the QR for the specific URL. Even gives us the ability to change dimensions:</strong>
+
+![Screenshot (118)](https://github.com/user-attachments/assets/c79c89bc-5555-49bc-a0ba-71c51925adde)
+
+<strong>Reading-Decoding a QR code, by giving its path:</strong>
+![Screenshot (119)](https://github.com/user-attachments/assets/e4ecf4a0-f4b7-4b06-9020-a89c3e976a88)
+
+<strong>Shows the user his history of creating and reading QR codes:</strong>
+
+![Screenshot (120)](https://github.com/user-attachments/assets/5aae3f2f-7ab3-42ff-88e6-5839eb727319)
+
+
+<strong>Making sure the URL inputted is valid:</strong>
+![Screenshot (121)](https://github.com/user-attachments/assets/f775cb55-3b8c-46b3-afc8-d8ac8ba9c55d)
 
 <h2>Contribution</h2>
 <p>
