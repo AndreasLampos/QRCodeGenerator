@@ -56,7 +56,7 @@
 
 ![Screenshot (121)](https://github.com/user-attachments/assets/f775cb55-3b8c-46b3-afc8-d8ac8ba9c55d)
 
-<strong>Lastly, checks if the QR code file is stored locally, lets the user know it already exists and asks whether the user wants to overwrite it or not. :</strong>
+<strong>Lastly, checks if the QR code file is stored locally, lets the user know it already exists and asks whether the user wants to overwrite it or not:</strong>
 
 ![Screenshot (123)](https://github.com/user-attachments/assets/c0bc4e06-4dc9-4a08-b6cc-dea2863424f2)
 
